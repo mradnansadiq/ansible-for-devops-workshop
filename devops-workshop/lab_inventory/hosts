@@ -1,0 +1,14 @@
+[all:vars]
+ansible_user=student44
+ansible_ssh_pass=infra_as_code
+ansible_port=22
+
+[sitea]
+dev_web1 ansible_host=172.16.212.121
+dev_web2 ansible_host=172.16.108.140
+[siteb]
+prod_web1 ansible_host=172.16.154.70
+prod_web2 ansible_host=172.16.50.130
+
+[control]
+ansible ansible_host=54.164.235.184

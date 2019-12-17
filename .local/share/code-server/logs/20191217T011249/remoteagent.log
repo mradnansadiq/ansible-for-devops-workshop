@@ -1,0 +1,97 @@
+[2019-12-17 01:12:49.538] [remoteagent] [info] update#setState idle
+[2019-12-17 01:13:19.508] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 01:13:19.521] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 01:13:19.521] [remoteagent] [info] update#setState idle
+[2019-12-17 02:13:19.511] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 02:13:19.523] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 02:13:19.523] [remoteagent] [info] update#setState idle
+[2019-12-17 03:13:19.514] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 03:13:19.532] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 03:13:19.532] [remoteagent] [info] update#setState idle
+[2019-12-17 04:13:19.526] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 04:13:19.540] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 04:13:19.540] [remoteagent] [info] update#setState idle
+[2019-12-17 05:13:19.527] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 05:13:19.540] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 05:13:19.540] [remoteagent] [info] update#setState idle
+[2019-12-17 06:13:19.531] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 06:13:19.545] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 06:13:19.545] [remoteagent] [info] update#setState idle
+[2019-12-17 07:13:19.535] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 07:13:19.553] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 07:13:19.553] [remoteagent] [info] update#setState idle
+[2019-12-17 08:13:19.536] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 08:13:19.555] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 08:13:19.555] [remoteagent] [info] update#setState idle
+[2019-12-17 09:13:19.540] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 09:13:19.551] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 09:13:19.551] [remoteagent] [info] update#setState idle
+[2019-12-17 10:13:19.544] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 10:13:19.559] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 10:13:19.559] [remoteagent] [info] update#setState idle
+[2019-12-17 11:13:19.544] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 11:13:19.555] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 11:13:19.555] [remoteagent] [info] update#setState idle
+[2019-12-17 12:13:19.546] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 12:13:19.559] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 12:13:19.559] [remoteagent] [info] update#setState idle
+[2019-12-17 13:13:19.551] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 13:13:19.569] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 13:13:19.569] [remoteagent] [info] update#setState idle
+[2019-12-17 14:13:19.552] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 14:13:19.566] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 14:13:19.566] [remoteagent] [info] update#setState idle
+[2019-12-17 15:13:19.553] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 15:13:19.564] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 15:13:19.564] [remoteagent] [info] update#setState idle
+[2019-12-17 16:13:19.554] [remoteagent] [info] update#setState checking for updates
+[2019-12-17 16:13:19.565] [remoteagent] [error] Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (_tls_wrap.js:1051:34)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket._finishInit (_tls_wrap.js:633:8)
+[2019-12-17 16:13:19.565] [remoteagent] [info] update#setState idle
